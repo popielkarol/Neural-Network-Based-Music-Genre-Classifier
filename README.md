@@ -1,29 +1,32 @@
-# MLP Project
+# Neural Networks Project
 
-This repository contains a Jupyter Notebook demonstrating the implementation and use of a Multi-Layer Perceptron (MLP) in Python.
+This repository contains the project files for a neural networks project developed during the 6th semester. The project involves various techniques and analyses performed using neural networks.
 
-## Description
+## Project Overview
 
-The project showcases the following:
-- Data preprocessing
-- Building and training an MLP model
-- Evaluating model performance
-- Visualizing results
+The goal of this project is to explore and analyze data using neural network techniques. Various visualizations and models have been created to better understand the dataset and the performance of neural networks.
+
+## Contents
+
+- `BPM_Boxplot.png`: Boxplot of BPM values.
+- `BPM_Boxplot_Modified.png`: Modified version of the BPM boxplot.
+- `Mapa_Korelacji.png`: Correlation map.
+- `mlp_project.ipynb`: Jupyter Notebook with the main project code.
+- `PCA_Scatter_Modified.png`: Modified scatter plot using PCA.
+- `PCA_Scattert.png`: Original scatter plot using PCA.
+- `tSNE.png`: t-SNE visualization.
+
+## How to Use
+
+1. Clone the repository.
+2. Open `mlp_project.ipynb` in Jupyter Notebook to explore the code and results.
 
 ## Requirements
 
-To run this project, you need to have the following packages installed:
-- Python 3.x
 - Jupyter Notebook
-- numpy
-- pandas
-- scikit-learn
-- matplotlib
+- Python 3.x
+- Required Python libraries: `librosa`, `numpy`, `matplotlib`, `sklearn`
 
-You can install the necessary packages using pip:
+## License
 
-```sh
-pip install numpy pandas scikit-learn matplotlib jupyter
-
-
-This project is licensed under the MIT License.
+This project is licensed under the MIT License 
